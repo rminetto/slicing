@@ -1,0 +1,10 @@
+
+Required libraries:
+
+   sudo apt-get install libcgal-dev
+
+   sudo apt-get install libglm-dev
+
+   sudo apt-get install meshlab
+
+   sudo apt-get install inkscape
