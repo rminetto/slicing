@@ -10,6 +10,6 @@ python show_slices.py 02.femur.stl
 
 Author:
 
-   Ricardo Dutra da Silva.
+   Ricardo Dutra da Silva (ricardodutr@gmail.com)
 
 
