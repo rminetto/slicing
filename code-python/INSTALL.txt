@@ -1,0 +1,4 @@
+conda create -n slicing_env
+source activate slicing_env
+conda install pyopengl
+pip install numpy-stl
