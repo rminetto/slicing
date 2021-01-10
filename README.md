@@ -8,18 +8,25 @@ This repository has the source codes (versions in c++, python and opengl) of an 
 
 [Drive] https://drive.google.com/file/d/1cF7Yokc5vJmBHYp1YO1NI0Ny2kfE76mR/view?usp=sharing
 
+# Video
+
+[Youtube] https://youtu.be/m_HlDYoWTpw
+
 # Citing
 
 ```
-@ARTICLE{9234742,
+@ARTICLE{MinettoCAD,
+  title={An Optimal Algorithm for 3D Triangle Mesh Slicing}, 
   author={R. {Minetto} and N. {Volpato} and J. {Stolfi} and R.M.M.H. {Gregori} and M.V.G. da {Silva}},
   journal={Computer-Aided Design (Elsevier)}, 
-  title={An Optimal Algorithm for 3D Triangle Mesh Slicing}, 
   year={2017},
   volume={92},
   number={1},
+  issn={0010-4485},
   pages={1-10},
   doi={http://dx.doi.org/10.1016/j.cad.2017.07.001},
   url = {http://www.sciencedirect.com/science/article/pii/S0010448517301215}
 }
 '''
+
+
