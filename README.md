@@ -27,6 +27,7 @@ This repository has the source codes (versions in c++, python and opengl) of an 
   doi={http://dx.doi.org/10.1016/j.cad.2017.07.001},
   url = {http://www.sciencedirect.com/science/article/pii/S0010448517301215}
 }
-'''
+```
+# More details
 
-
+[PDF] https://www.researchgate.net/publication/309619647_An_Optimal_Algorithm_for_3D_Triangle_Mesh_Slicing
