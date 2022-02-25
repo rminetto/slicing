@@ -8,6 +8,11 @@ This repository has the source codes (versions in c++, python and opengl) of an 
 
 [Drive] https://drive.google.com/file/d/1cF7Yokc5vJmBHYp1YO1NI0Ny2kfE76mR/view?usp=sharing
 
+# Software license agreement 
+
+Our software/code can be used for research, non-comercial or comercial purposes for free with proper attribution.
+
+
 # Video
 
 [Youtube] https://youtu.be/m_HlDYoWTpw
