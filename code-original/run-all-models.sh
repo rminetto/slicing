@@ -7,7 +7,7 @@
 #The options for rotation are: [true, false] (to change de Z cutting plane).
 #The options for contour orientation (clockwise or counter-clockwise) are: [true, false].
 
-g++ -O3 -std=c++11 -o slicing slicing.cpp -fpermissive -lCGAL -frounding-math;
+g++ -O3 -o slicing slicing.cpp -frounding-math;
 
 foutput=RUNNING_TIME.txt;
 
