@@ -1,6 +1,6 @@
 To compile:
 
-g++ -O3 -std=c++11 -o slicing slicing.cpp -fpermissive -lCGAL -frounding-math
+g++ -O3 -o slicing slicing.cpp -frounding-math
 
 To run:
 
