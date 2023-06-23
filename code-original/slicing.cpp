@@ -635,7 +635,8 @@ v3 R3_Mesh_Side_slice (v3 vi, v3 vj, float Z) {
    double frac = (Z - vi.z)/dz;
    float xint = (float)(frac*dx + (double)vi.x);
    float yint = (float)(frac*dy + (double)vi.y);
-   return (v3){ .x = xint, .y = yint, .z = Z };
+   //return (v3){ .x = xint, .y = yint, .z = Z };
+   return (v3){xint, yint, Z};
 }
 
 /*-----------------------------------------------------------------------*/
